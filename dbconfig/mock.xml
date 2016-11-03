@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<database name="mock">
+<ip>10.28.4.25</ip>
+<port>3306</port>
+<userName>root</userName>
+<passWord>BeeCloud2016@</passWord>
+</database>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+  <database name="mock" type="depend">
+    <table name="rule" uniqueKey="">
+      <column type="INT">id</column>
+      <column type="VARCHAR">name</column>
+      <column type="VARCHAR">path</column>
+      <column type="INT">response_id</column>
+      <column type="INT">status</column>
+      <row>
+        <value>14</value>
+        <value>测试规则</value>
+        <value>/newQueryUserGoldDetail/</value>
+        <value>115</value>
+        <value>1</value>
+      </row>
+      <row>
+        <value>171</value>
+        <value>人车关系</value>
+        <value>/vehicle-smart-ms-car/</value>
+        <value>120</value>
+        <value>1</value>
+      </row>
+    </table>
+  </database>
+</data>
